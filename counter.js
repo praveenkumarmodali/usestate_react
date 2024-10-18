@@ -1,5 +1,5 @@
 function Counter() {
-  return <div></div>;
+  return <div>Hi</div>;
 }
 
 export default Counter;
