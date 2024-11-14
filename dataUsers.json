@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alice.johnson@example.com",
+      "address": {
+        "street": "123 Maple Street",
+        "city": "Springfield",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Riverside",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Catherine Green",
+      "username": "catherineg",
+      "email": "catherine.green@example.com",
+      "address": {
+        "street": "789 Birch Road",
+        "city": "Lakeside",
+        "zipcode": "11223"
+      }
+    }
+  ]
+}

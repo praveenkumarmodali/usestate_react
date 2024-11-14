@@ -1,4 +1,5 @@
-""All sample projects of useState hook" <br>
-1.Counter <br>
-2.to-do application <br>
-3.Form validation <br>
+"This is useEffect Hook Repo"<br>
+
+"1. Fetch users data from dataUsers.json()"<br>
+"2. Dynamic Title changes "<br>
+"3. Mock user Login Added"
